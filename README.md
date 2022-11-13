@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sreejith C S
 - 👀 I’m interested in Learning New things
-- 🌱 I’m currently learning Java programming
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me ...sreejithcs936@gmail.com
 
